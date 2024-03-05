@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Arib-Ahmad
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @Arib-Ahmad 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arib.ahmad05@gmail.com
 
-<!---
-Arib-Ahmad/Arib-Ahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
