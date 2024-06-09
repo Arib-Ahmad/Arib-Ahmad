@@ -28,6 +28,5 @@ Hello! I'm Arib Ahmad, a passionate learner currently diving into the worlds of 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arib-ahmad-81baab290/)
 
 
-Feel free to check out my repositories and connect with me on social media. Let's learn and grow together!
+Feel free to connect with me on social media. Let's learn and grow together!
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
