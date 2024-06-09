@@ -39,7 +39,7 @@ I am currently focusing on:
 <a href="mailto:arib.ahmad01@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20" />
 </a>
-
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)
 
 Feel free to connect with me on social media. Let's learn and grow together!
 
