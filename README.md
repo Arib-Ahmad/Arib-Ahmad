@@ -12,7 +12,7 @@ Hello! I'm Arib Ahmad, a passionate learner currently diving into the worlds of 
   - SQL 🗃️
   - Data Structures & Algorithms 📚
 - 📫 How to reach me: (arib.ahmad01@gmail.com)
----
+
 
 ## Learning Journey
 
@@ -23,7 +23,6 @@ I am currently focusing on:
 - **Exploring C++** for system programming and performance-critical applications.
 - **Practicing DSA** to improve problem-solving skills and coding proficiency.
 
----
 
 ## 🛠️ Languages and Tools
 
