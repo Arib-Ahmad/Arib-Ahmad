@@ -11,7 +11,6 @@ Hello! I'm Arib Ahmad, a passionate learner currently diving into the worlds of 
   - C++ 💻
   - SQL 🗃️
   - Data Structures & Algorithms 📚
-- 🎨 I love integrating animated elements and logos into my projects to make them more engaging.
 - 📫 How to reach me: (arib.ahmad01@gmail.com)
 
 ## 🛠️ Languages and Tools
