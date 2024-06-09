@@ -36,7 +36,7 @@ I am currently focusing on:
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arib-ahmad-81baab290/)
-<a href="mailto:your.arib.ahmad01@gmail.com">
+<a href="mailto:.arib.ahmad01@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20" />
 </a>
 
