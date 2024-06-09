@@ -2,7 +2,7 @@
 
 ![Animated Logo](https://example.com/animated-logo.gif)
 
-Hello! I'm Arib Ahmad, a passionate learner currently diving into the worlds of Python, C++, SQL, and Data Structures & Algorithms (DSA). I'm always eager to explore new technologies and enhance my skills. 
+Hello! I'm Arib Ahmad, a passionate learner currently diving into the worlds of Python, C++, SQL, and Data Structures & Algorithms. I'm always eager to explore new technologies and enhance my skills. 
 
 ## 🚀 About Me
 
