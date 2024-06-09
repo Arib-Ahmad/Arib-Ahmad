@@ -38,6 +38,8 @@ I am currently focusing on:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arib-ahmad-81baab290/)
 [![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:your.arib.ahmad01@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arib-ahmad-81baab290/)
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:your.arib.ahmad01@gmail.com)
 
 
 Feel free to connect with me on social media. Let's learn and grow together!
