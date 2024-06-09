@@ -29,10 +29,14 @@ I am currently focusing on:
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arib-ahmad-81baab290/)
 
 ---
 
 ### Thank You for Visiting!
 
 Feel free to connect with me. I'm always open to feedback and collaboration!
+
+---
+
+![Coder GIF](https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif)
