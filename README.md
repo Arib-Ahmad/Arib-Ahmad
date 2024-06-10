@@ -23,13 +23,9 @@ I am currently focusing on:
 - **Practicing DSA** to improve problem-solving skills and coding proficiency.
 
 
-## 🛠️ Languages and Tools
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=C++)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Git](https://img.shields.io/badge/-Git-F05032?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
 
 
 
