@@ -17,7 +17,7 @@ Hello! I'm Arib Ahmad, a passionate learner currently diving into the worlds of 
 
 I am currently focusing on:
 
-- **Deepening my understanding of Python** for data analysis and web development.
+- **Deepening my understanding of Python** for data analysis.
 - **Learning advanced SQL queries** and database management.
 - **Exploring C++** for system programming and performance-critical applications.
 - **Practicing DSA** to improve problem-solving skills and coding proficiency.
